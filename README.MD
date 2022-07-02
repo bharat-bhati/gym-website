@@ -4,5 +4,5 @@
 
 html css from codewithharry [link](https://youtu.be/Sj5NX_br5WY)
 
-![Getting Started](Screenshot%202022-07-02%20122603.png)
+![Getting Started](screenshot.png)
 
